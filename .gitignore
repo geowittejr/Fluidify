@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Fluidify.UI.Prototype/bin
+/Fluidify.UI.Prototype/obj/Debug
+/Fluidify.UI.Prototype/Properties
+/packages
