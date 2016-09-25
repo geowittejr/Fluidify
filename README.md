@@ -5,6 +5,7 @@ Todo app
 
 
 CefSharp WebBrowser Control
+(UPDATE: I will probably go with Electron for the desktop application instead of embedding CefSharp in a Windows app.)
 
 Installation was a pain in the rump. Here is the article that saved me:
 http://www.codeguru.com/columns/dotnet/if-you-like-it-put-an-html5-ui-on-it.html
