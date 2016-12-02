@@ -20,3 +20,15 @@ https://travis-ci.org/geowittejr/Audeeo/settings
 
 http://bytes.babbel.com/en/articles/2016-05-20-deploy-lambda-functions-using-travis.html
 
+
+###App Features
+- Assign tasks a context such as:
+  - @Home
+  - @Computer
+  - @Errands
+- Assign a category to tasks or projects to show which tasks are related to a particular category of life such as:
+  - Employee
+  - Husband
+  - Father
+  - Author
+  - Programmer
