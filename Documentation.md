@@ -1,6 +1,15 @@
 #Project Documentation
 
 
+###CSS Modules
+
+I looked into doing inline styles in React and decided against it. I like the idea of keeping the styling
+separate from code. It also seems that it would make it easier to move away from React without having to
+redo all the styles.  CSS Modules appear to be a good solution.
+
+https://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/
+
+
 ###React and TypeScript
 
 This is a good project template:
