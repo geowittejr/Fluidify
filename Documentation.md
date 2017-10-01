@@ -8,6 +8,7 @@ separate from code. It also seems that it would make it easier to move away from
 redo all the styles.  CSS Modules appear to be a good solution.
 
 https://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/
+https://github.com/css-modules/css-modules
 
 
 ###React and TypeScript
